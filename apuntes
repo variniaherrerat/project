@@ -1,0 +1,16 @@
+// Variables
+/* Son contenedores en los que nosotros podemos almacenar valores
+
+var = (menos recomendada)
+let = (recomendada)
+
+let nombreDeLaVariable
+nombreDeLaVariable = 'Fernando'
+
+let nombreDeLaVariable = 'Fernando'
+
+
+String = Secuencia de Texto   let miVariable = "Pepito";
+Number = Esto es un numero    let miVariable = 10;
+Boolean = Verdadero/Falso     let miVaribale = true / false
+Array = Una estructura que permite almacenar varios valores   let miVariable = [1, "Juanito" , 15.2 , "Ruben"]
