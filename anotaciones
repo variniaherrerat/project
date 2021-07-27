@@ -1,0 +1,6 @@
+/*Tipos de las Variables 1. 
+Numericos: Puedemos almacenar numeros enteros, decimales. 
+2. Cadenas de caracteres(String): Son piezas de un texto. 
+3. Booleanos: Son valores de verdadero/falso. Se utilizan para probar una condición. 
+4. Arreglos: Un arreglo es un objeto unico que contiene multiples valores encerrados por corchetes y separados por comas. 
+5. Objetos: Es una estructura de código que modela un objeto de la vida real. let dog = {name = 'Luca', color = 'Blue'} dog.name */
